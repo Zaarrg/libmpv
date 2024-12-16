@@ -1,3 +1,4 @@
+LIBRARY libmpv-2.dll
 EXPORTS
 mpv_abort_async_command
 mpv_client_api_version
